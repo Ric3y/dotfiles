@@ -3,7 +3,8 @@
 
 export ZSH="$HOME/.oh-my-zsh"
 export PATH="$HOME/.local/bin:$PATH"
-
+export PATH="$HOME/go/bin:$PATH"
+export PATH="$HOME/Developer/android-studio/bin:$PATH"
 
 ZSH_THEME="alanpeabody"
 
